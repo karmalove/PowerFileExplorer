@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PowerFileExplorer.iml" filepath="$PROJECT_DIR$/PowerFileExplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAndroidLibrary/myAndroidLibrary.iml" filepath="$PROJECT_DIR$/myAndroidLibrary/myAndroidLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFileExplorer/myFileExplorer.iml" filepath="$PROJECT_DIR$/myFileExplorer/myFileExplorer.iml" />
+    </modules>
+  </component>
+</project>
